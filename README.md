@@ -1,2 +1,3 @@
 # AutoPilot_forStudying
-Auto_Pilot
+laba 7 variant 14
+
